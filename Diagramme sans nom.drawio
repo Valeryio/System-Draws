@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="-IR_6mH_jh7ec_85QcZA">
-    <mxGraphModel dx="4200" dy="2280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="800" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,6 +85,12 @@
         </mxCell>
         <mxCell id="FuLha_3-91F9rfbZAOE2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.026;entryY=0.317;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="FuLha_3-91F9rfbZAOE2-9" target="FuLha_3-91F9rfbZAOE2-22">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FuLha_3-91F9rfbZAOE2-45" value="Tiktok API" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FuLha_3-91F9rfbZAOE2-51" value="Google Maps&lt;div&gt;API&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="680" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
